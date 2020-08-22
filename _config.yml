@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Champion Grip Lawn Bowling 
+title: Champion Grip Lawn Bowling
 email: sales@championgrip.com
 description: Champion Grip product for lawn bowling to enhance grip.  It is a grip enhancer and polish
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,7 +22,6 @@ twitter_username: bowlsgrip
 github_username:  craigdanielk
 locale: "en-us"
 logo: logo.png
-
 
 # Build settings
 markdown: kramdown
