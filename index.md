@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[About Champion Grip](/about/index.html)
