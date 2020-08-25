@@ -5,6 +5,5 @@ date:   2020-08-22 12:52:09 -0400
 categories: jekyll update
 ---
 # Links
- * facebook
- * twitter_username
- * instagram
+ * [@ChampionGrip](https://twitter.com/championgrip)
+ * [Facebook](https://www.facebook.com/Champion-Grip-Bowls-Spray-Polish-280675745629906/)

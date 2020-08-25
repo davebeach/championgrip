@@ -5,4 +5,4 @@ date:   2020-08-22 12:52:09 -0400
 categories: jekyll update
 ---
 ## Ordering
- * Please contact us, and we'll find your nearest distributor!
+ * Please contact us via [email](mailto:craigdanielk@gmail.com), and we'll find your nearest distributor!

@@ -2,7 +2,7 @@
 layout: post
 title:  "Application"
 date:   2020-08-22 16:45:30 -0400
-categories: jekyll update
+categories: lawn bowling
 ---
 
 # Application

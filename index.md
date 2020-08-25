@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image:
+  path: /images/photo2.png
 ---
-
-[About Champion Grip](/about/index.html)
