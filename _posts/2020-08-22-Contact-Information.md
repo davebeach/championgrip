@@ -2,7 +2,7 @@
 layout: post
 title:  "Contact"
 date:   2020-08-22 12:52:09 -0400
-categories: jekyll update
+categories: lawn bowling
 ---
 
 ## Contact Information
