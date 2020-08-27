@@ -8,3 +8,4 @@ categories: jekyll update
 # Links
  * [@ChampionGrip](https://twitter.com/championgrip)
  * [Facebook](https://www.facebook.com/Champion-Grip-Bowls-Spray-Polish-280675745629906/)
+ * [Instagram](https://www.instagram.com/champion_grip/)

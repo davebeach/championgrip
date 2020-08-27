@@ -5,4 +5,5 @@
 layout: home
 image:
   path: /images/photo2.png
+  background: url(/images/photo2.png) fixed center;
 ---
