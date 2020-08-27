@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Champion Grip Lawn Bowling
 email: sales@championgrip.com
-description: Champion Grip product for lawn bowling to enhance grip.  It is a grip enhancer and polish
+description: Champion Grip Bowls Spray and Polish. Lawn bowling grip enhancer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://championgrip.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bowlsgrip
@@ -29,6 +29,13 @@ theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
+footer_links:
+  -title: Twitter
+  url: https://twitter.com/championgrip
+  icon: fab fa-twitter-square
+  -title: Facebook
+  url: https://www.facebook.com/Champion-Grip-Bowls-Spray-Polish-280675745629906/
+  icon:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
